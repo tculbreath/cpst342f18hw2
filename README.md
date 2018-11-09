@@ -1,2 +1,2 @@
 # My Second Git Project
-Tanea Culbreath
+Tanea Shante Culbreath
